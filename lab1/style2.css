@@ -1,0 +1,12 @@
+#tabela td, th{
+    border-collapse: collapse;
+    border: 5px solid; 
+    border-color:blue;
+}
+#tabela{
+    border-collapse: collapse;
+    border: 5px solid; 
+    border-color:blue;
+    font-size:50px;
+    text-align:center;
+}

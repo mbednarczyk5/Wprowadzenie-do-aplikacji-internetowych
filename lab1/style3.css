@@ -1,0 +1,26 @@
+.kwadrat{
+    height:100px;
+    width:100px;
+}
+#a{
+  background-color:blue;
+}
+#b{
+  background-color:rgb(255, 111, 0);
+}
+#c{
+  background-color:rgb(255, 0, 179);
+}
+#d{
+  background-color:rgb(255, 0, 64);
+}
+#e{
+  background-color:rgb(30, 255, 0);
+}
+.container{
+    display: flex; 
+    justify-content: space-evenly; 
+}
+#b{
+    align-items: center;
+}
