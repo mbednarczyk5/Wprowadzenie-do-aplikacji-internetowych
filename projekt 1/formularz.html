@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja Strona</title>
+</head>
+ <link
+ rel="stylesheet"
+ href="formularz.css"
+ />
+<body>
+    <div id="errorMessage"></div>
+    <div class="Form">
+        <div id="zapytanie">Wyślij swoje zapytanie</div>
+        <input id="email" type="text" placeholder="e-mail"> 
+        <input id="tel" type="text" placeholder="Numer telefonu"> 
+        <textarea id="pomoc" placeholder="W czym możemy ci pomóc?"></textarea> 
+        <button id="wiad" onclick="validInput()" >Wyślij wiadomość</button>
+    </div>
+    <footer id="footer">Maciej Bednarczyk</footer>
+
+<script src="formularz.js"></script>
+</body>
+
+</html>

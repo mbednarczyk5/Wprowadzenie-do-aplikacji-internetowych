@@ -20,7 +20,5 @@
 .container{
     display: flex; 
     justify-content: space-evenly; 
-}
-#b{
-    align-items: center;
+    margin-top: 125px; 
 }

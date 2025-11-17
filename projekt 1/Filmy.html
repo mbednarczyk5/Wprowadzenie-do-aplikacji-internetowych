@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pl">
+ <head>
+ <meta charset="UTF-8" />
+ <meta
+ name="viewport"
+ content="width=device-width, initial-scale=1.0"
+ />
+ <link
+ rel="stylesheet"
+ href="Filmy.css"
+ />
+ </head>
+<body>
+<main>
+<div id="header">
+    <select id="GenreSelect">
+        <option value="all">Wszystkie</option>
+        <option value="Action">Akcja</option>
+        <option value="Adventure">Przygoda</option>
+        <option value="Animation">Animacja</option>
+        <option value="Biography">Biografia</option>
+        <option value="Comedy">Komedia</option>
+        <option value="Crime">Kryminalny</option>
+        <option value="Documentary">Dokumentalny</option>
+        <option value="Drama">Dramat</option>
+        <option value="Family">Familijny</option>
+        <option value="Fantasy">Fantasy</option>
+        <option value="Film-Noir">Film noir</option>
+        <option value="History">Historyczny</option>
+        <option value="Horror">Horror</option>
+        <option value="Music">Muzyczny</option>
+        <option value="Musical">Musical</option>
+        <option value="Mystery">Tajemnica</option>
+        <option value="Romance">Romans</option>
+        <option value="Sci-Fi">Sci-Fi</option>
+        <option value="Sport">Sportowy</option>
+        <option value="Thriller">Thriller</option>
+        <option value="War">Wojenny</option>
+        <option value="Western">Western</option>
+        <option value="Reality-TV">Reality show</option>
+        <option value="Talk-Show">Talk-show</option>
+        <option value="Game-Show">Teleturniej</option>
+        <option value="News">Wiadomości</option>
+        <option value="Short">Krótkometrażowy</option>
+        <option value="Adult">Dla dorosłych</option>
+    </select>
+    <input type="text" placeholder="Wyszukaj Film" id="searchFilmBox">
+
+    <form id="addFilmForm">
+        <input type="text" placeholder="Dodaj Film" id="addFilmBox">
+    </form>
+    <label for="typeSelect">Pokaż:</label>
+    <select id="typeSelect">
+        <option value="all">Filmy i Seriale</option>
+        <option value="movie">Filmy</option>
+        <option value="series">Seriale</option>
+    </select>
+    <button id="usun" onclick="ToggleDeleteMode()">Usuń</button>
+    <button onclick="Random()">Wylosuj</button>
+    <a href="formularz.html"><button>Formularz Kontaktowy</button></a>
+</div>
+<div id="movies"></div>
+<div id="randomFilm"></div>
+<footer id="footer">Maciej Bednarczyk</footer>
+</main>
+ <script src="Filmy.js"></script>
+ </body>
+</html>

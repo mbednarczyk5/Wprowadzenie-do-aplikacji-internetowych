@@ -1,0 +1,136 @@
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #121212; 
+    color: #eee; 
+    font-family: 'Segoe UI', Roboto, sans-serif; 
+}
+
+body {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr auto; 
+    grid-template-areas: 
+        "Form"
+        "footer";
+    min-height: 100vh; 
+}
+
+.Form {
+    grid-area: Form;
+    width: 40rem;
+    max-width: 90%; 
+    height: auto; 
+    padding: 2rem; 
+    justify-self: center;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem; 
+    background: #1f1f1f; 
+    border: 2px solid #333; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); 
+}
+
+#zapytanie {
+    font-size: 2.2rem; 
+    color: #f1f1f1; 
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#email,
+#tel,
+#pomoc {
+    background-color: #2b2b2b; 
+    color: #f1f1f1; 
+    border: none;
+    border-radius: 6px;
+    padding: 10px 15px;
+    font-size: 1.1rem; 
+    outline: none;
+    transition: all 0.3s ease;
+    width: 100%; 
+    max-width: 28rem; 
+    box-sizing: border-box; 
+}
+
+#email:focus,
+#tel:focus,
+#pomoc:focus {
+    background-color: #3a3a3a; 
+    box-shadow: 0 0 0 2px #666; 
+}
+
+#pomoc {
+    height: 14rem; 
+    resize: vertical; 
+    text-align: left; 
+    padding-top: 15px; 
+}
+
+#pomoc::placeholder {
+    color: #aaa; 
+    font-style: italic; 
+}
+
+#email, #tel {
+    height: 3rem; 
+}
+
+
+#footer {
+    grid-area: footer;
+    padding: 15px 20px; 
+    color: white;
+    background-color: #1f1f1f; 
+    text-align: center;
+    border-top: 2px solid #333; 
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.5);
+}
+#wiad {
+    background: linear-gradient(90deg, #444, #666); 
+    color: #f1f1f1;
+    border: none;
+    border-radius: 6px;
+    padding: 12px 25px; 
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 0.5rem; 
+    width: 100%; 
+    max-width: 28rem; 
+    box-sizing: border-box;
+}
+#errorMessage{
+    z-index:5;
+    position: fixed;
+    top: 50%;        
+    left: 50%;       
+    transform: translate(-50%, -50%); 
+    background-color: #3d0000; 
+    color: #ffcccc;        
+    border: 1px solid #7c0000;
+    border-radius: 8px;      
+    padding: 15px 25px;      
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4); 
+    font-size: 1.2rem;       
+    font-weight: bold;     
+    text-align: center;      
+    max-width: 80%;          
+    width: auto;             
+    min-width: 250px;       
+
+    opacity: 0;              
+    visibility: hidden;      
+    transition: opacity 0.4s ease-out, visibility 0.4s ease-out; 
+}
+#errorMessage.show {
+    opacity: 1;
+    visibility: visible;
+}

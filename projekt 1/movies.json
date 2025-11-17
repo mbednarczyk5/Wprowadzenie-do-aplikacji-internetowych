@@ -1,0 +1,222 @@
+[
+  {
+    "Title": "Forrest Gump",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "1994",
+    "imdbRating": "8.8",
+    "Genre": "Drama, Romance",
+    "Plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "Released": "06 Jul 1994",
+    "Runtime": "142 min",
+    "Director": "Robert Zemeckis"
+  },
+  {
+    "Title": "The Dark Knight",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+    "Year": "2008",
+    "imdbRating": "9.1",
+    "Genre": "Action, Crime, Drama",
+    "Plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+    "Released": "18 Jul 2008",
+    "Runtime": "152 min",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Title": "Inception",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "Year": "2010",
+    "imdbRating": "8.8",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "Released": "16 Jul 2010",
+    "Runtime": "148 min",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Title": "Pulp Fiction",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "1994",
+    "imdbRating": "8.8",
+    "Genre": "Crime, Drama",
+    "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "Released": "14 Oct 1994",
+    "Runtime": "154 min",
+    "Director": "Quentin Tarantino"
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "2001",
+    "imdbRating": "8.9",
+    "Genre": "Adventure, Drama, Fantasy",
+    "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "Released": "19 Dec 2001",
+    "Runtime": "178 min",
+    "Director": "Peter Jackson"
+  },
+  {
+    "Title": "The Lord of the Rings: The Return of the King",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "2003",
+    "imdbRating": "9.0",
+    "Genre": "Adventure, Drama, Fantasy",
+    "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "Released": "17 Dec 2003",
+    "Runtime": "201 min",
+    "Director": "Peter Jackson"
+  },
+  {
+    "Title": "Schindler's List",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "1993",
+    "imdbRating": "9.0",
+    "Genre": "Biography, Drama, History",
+    "Plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "Released": "04 Feb 1994",
+    "Runtime": "195 min",
+    "Director": "Steven Spielberg"
+  },
+  {
+    "Title": "Interstellar",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "2014",
+    "imdbRating": "8.7",
+    "Genre": "Adventure, Drama, Sci-Fi",
+    "Plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "Released": "07 Nov 2014",
+    "Runtime": "169 min",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Title": "Jurassic Park",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+    "Year": "1993",
+    "imdbRating": "8.2",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Plot": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+    "Released": "11 Jun 1993",
+    "Runtime": "127 min",
+    "Director": "Steven Spielberg"
+  },
+  {
+    "Title": "Star Wars: Episode V - The Empire Strikes Back",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "1980",
+    "imdbRating": "8.7",
+    "Genre": "Action, Adventure, Fantasy",
+    "Plot": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+    "Released": "18 Jun 1980",
+    "Runtime": "124 min",
+    "Director": "Irvin Kershner"
+  },
+  {
+    "Title": "Star Wars: Episode IV - A New Hope",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "1977",
+    "imdbRating": "8.6",
+    "Genre": "Action, Adventure, Fantasy",
+    "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...",
+    "Released": "25 May 1977",
+    "Runtime": "121 min",
+    "Director": "George Lucas"
+  },
+  {
+    "Title": "Iron Man",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+    "Year": "2008",
+    "imdbRating": "7.9",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Plot": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "Released": "02 May 2008",
+    "Runtime": "126 min",
+    "Director": "Jon Favreau"
+  },
+  {
+    "Title": "The Shawshank Redemption",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "1994",
+    "imdbRating": "9.3",
+    "Genre": "Drama",
+    "Plot": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+    "Released": "14 Oct 1994",
+    "Runtime": "142 min",
+    "Director": "Frank Darabont"
+  },
+  {
+    "Title": "Fight Club",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "1999",
+    "imdbRating": "8.8",
+    "Genre": "Crime, Drama, Thriller",
+    "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "Released": "15 Oct 1999",
+    "Runtime": "139 min",
+    "Director": "David Fincher"
+  },
+  {
+    "Title": "The Godfather",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "1972",
+    "imdbRating": "9.2",
+    "Genre": "Crime, Drama",
+    "Plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "Released": "24 Mar 1972",
+    "Runtime": "175 min",
+    "Director": "Francis Ford Coppola"
+  },
+  {
+    "Title": "Back to the Future",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "1985",
+    "imdbRating": "8.5",
+    "Genre": "Adventure, Comedy, Sci-Fi",
+    "Plot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+    "Released": "03 Jul 1985",
+    "Runtime": "116 min",
+    "Director": "Robert Zemeckis"
+  },
+  {
+    "Title": "The Dark Knight Rises",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
+    "Year": "2012",
+    "imdbRating": "8.4",
+    "Genre": "Action, Crime, Drama",
+    "Plot": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+    "Released": "20 Jul 2012",
+    "Runtime": "164 min",
+    "Director": "Christopher Nolan"
+  },
+  {
+    "Title": "Gladiator",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "2000",
+    "imdbRating": "8.5",
+    "Genre": "Action, Adventure, Drama",
+    "Plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "Released": "05 May 2000",
+    "Runtime": "155 min",
+    "Director": "Ridley Scott"
+  },
+  {
+    "Title": "The Matrix",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "1999",
+    "imdbRating": "8.7",
+    "Genre": "Action, Sci-Fi",
+    "Plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "Released": "31 Mar 1999",
+    "Runtime": "136 min",
+    "Director": "Lana Wachowski, Lilly Wachowski"
+  },
+  {
+    "Title": "Inglourious Basterds",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Year": "2009",
+    "imdbRating": "8.4",
+    "Genre": "Adventure, Drama, War",
+    "Plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "Released": "21 Aug 2009",
+    "Runtime": "153 min",
+    "Director": "Quentin Tarantino"
+  }
+]
